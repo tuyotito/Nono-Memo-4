@@ -1,0 +1,19 @@
+{
+  "name": "nono-memo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nono Memo - jeux de mémoire (application Android via Capacitor)",
+  "scripts": {
+    "sync": "npx cap sync android",
+    "open": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/app": "^6.0.1",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.1.2"
+  }
+}

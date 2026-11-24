@@ -1,0 +1,9 @@
+{
+  "appId": "com.nonomemo.app",
+  "appName": "Nono Memo",
+  "webDir": "www",
+  "backgroundColor": "#fbf7ef",
+  "android": {
+    "allowMixedContent": false
+  }
+}
